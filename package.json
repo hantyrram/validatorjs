@@ -1,0 +1,23 @@
+{
+  "name": "mongodeler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hantyrram/mongodeler.git"
+  },
+  "keywords": [
+    "mongodb",
+    "orm"
+  ],
+  "author": "hantyr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hantyrram/mongodeler/issues"
+  },
+  "homepage": "https://github.com/hantyrram/mongodeler#readme"
+}
