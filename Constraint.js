@@ -56,7 +56,7 @@ const format = function(field,regexp){
 
 
 
-class ModelConstraint{
+class Constraint{
 
   constructor(){
     this.minLengthDefinitions = [];
@@ -97,4 +97,4 @@ class ModelConstraint{
   }
 }
 
-module.exports = ModelConstraint;
+module.exports = Constraint;
